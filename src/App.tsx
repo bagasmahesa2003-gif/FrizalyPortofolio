@@ -31,7 +31,7 @@ function Layout({ children }: { children: ReactNode }) {
 
   return (
     <>
-      <nav className="fixed w-full z-50 glass py-4 px-6 md:px-12 flex justify-between items-center">
+      <nav className="fixed top-0 left-0 w-full z-50 glass py-4 px-6 md:px-12 flex justify-between items-center">
         <Link to="/" className="text-xl font-bold tracking-tighter" onClick={closeMobileMenu}>BA<span className="text-blue-500">.</span></Link>
         
         {/* Desktop Menu */}
