@@ -69,7 +69,7 @@ export default function Projects() {
             <img src="https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?auto=format&fit=crop&q=80" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition duration-500" alt="Project Video" />
             <div className="absolute inset-x-0 bottom-0 top-auto md:inset-0 bg-gradient-to-t from-teal-900/90 to-transparent md:bg-teal-900/80 flex flex-col justify-end md:justify-center items-center py-6 px-4 text-center opacity-100 md:opacity-0 md:group-hover:opacity-100 transition duration-300">
                 <h4 className="font-bold text-lg mb-2">My Project Video</h4>
-                <a href="https://drive.google.com/drive/folders/18vj4rXHaZlKkxvGPx5-h0CTCUvAW0TEr?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn-gradient px-6 py-2 rounded-full text-xs font-bold uppercase tracking-wider inline-block">View Video</a>
+                <a href="https://drive.google.com/drive/folders/1x_dObQNuYNHIXlpv53ANKCBkgs2nUh6A?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn-gradient px-6 py-2 rounded-full text-xs font-bold uppercase tracking-wider inline-block">View Video</a>
             </div>
         </div>
 
